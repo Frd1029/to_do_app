@@ -14,7 +14,7 @@
 
 * [Project status](#Project_Status)
 
-* [Steps by Install Django](#Steps by Install Django)
+* [Steps by Install Django](#Steps_by_Install_Django)
 
 * [Application features and demonstration](#Application_features_demonstration)
 
@@ -38,7 +38,7 @@ It could also include collaboration features, such as sharing task lists with ot
 
 In progress or Active: The project is underway, and activities are being carried out to achieve the established objectives.
 
-## Steps by Install Django
+## Steps_by_Install_Django
 
 First, we enter the folder where our remote repository is located
 
@@ -61,6 +61,11 @@ We use the following command ".\venv\Scripts\activate.bat" to activate and enter
 ## Project access
 
 ## Technologies_used
+
+* Django
+* Python 3.12.2 (virtual env)
+* Black (linter)
+* Flake8 (linter)
 
 ## Project_Developers
 
