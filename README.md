@@ -10,24 +10,17 @@
 
 * [Project description](#Project_description)
 
-* [Project status](#Estado-del-proyecto)
+* [Project status](#Project_Status)
 
-* [Application features and demonstration](#Características-de-la-aplicación-y-demostración)
+* [Steps by Install Django](#Steps_by_Install_Django)
 
-* [Project access](#acceso-proyecto)
+* [Application features and demonstration](#Application_features_demonstration)
 
-* [Technologies used](#tecnologías-utilizadas)
+* [Project access](#Project_access)
+
+* [Technologies used](#Technologies_used)
 
 * [Project Developers](#personas-desarrolladores)
-
-## Projec_Developers:
-
-- 1152047 Fredy Gustavo Peñaranda 
-    **Usuario En GitHub:** [Frd1029](https://github.com/Frd1029)
-- 1151860 Luis Edaurdo Soto García 
-    **Usuario En GitHub:** [lesg1151860](https://github.com/lesg1151860)
-- 1151920 Jezael Ropero 
-    **Usuario En GitHub:** [omegablacks](https://github.com/omegablacks)
 
 ## Project_description
 
@@ -39,11 +32,11 @@ To enhance the user experience, the application could be responsive, meaning com
 
 It could also include collaboration features, such as sharing task lists with other users and assigning tasks to different team members in collaborative work environments.
 
-## Project Status
+## Project_Status
 
 In progress or Active: The project is underway, and activities are being carried out to achieve the established objectives.
 
-## Steps by Install Django:
+## Steps by Install Django
 
 First, we enter the folder where our remote repository is located
 
@@ -52,3 +45,18 @@ After being located in our repository, we enter Python mode by typing the comman
 Create a new folder with the command "mkdir" and assign it a name, in our case it will be 'project'. Enter the newly created folder with the command "cd" and create an environment with the following command "py -m venv venv".
 
 We use the following command ".\venv\Scripts\activate.bat" to activate and enter the local Python environment. Once inside the local environment we use the following command "pip install django" to install Django in our local Phyton environment.
+
+## Application_features_demonstration
+
+## Project access
+
+## Technologies_used
+
+## Projec_Developers
+
+- 1152047 Fredy Gustavo Peñaranda 
+    **Usuario En GitHub:** [Frd1029](https://github.com/Frd1029)
+- 1151860 Luis Edaurdo Soto García 
+    **Usuario En GitHub:** [lesg1151860](https://github.com/lesg1151860)
+- 1151920 Jezael Ropero 
+    **Usuario En GitHub:** [omegablacks](https://github.com/omegablacks)
