@@ -14,7 +14,7 @@
 
 * [Project status](#Project_Status)
 
-* [Steps by Install Django](#Steps_by_Install_Django)
+* [Steps by Install Django](#Steps by Install Django)
 
 * [Application features and demonstration](#Application_features_demonstration)
 
