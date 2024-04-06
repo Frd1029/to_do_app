@@ -6,13 +6,13 @@
 
 * [Steps by Install Django](#Steps_by_Install_Django)
 
-* [Application features and demonstration](#Application_features_demonstration)
-
 * [Project access](#Project_access)
+
+* [Application features and demonstration](#Application_features_demonstration)
 
 * [Technologies used](#Technologies_used)
 
-* [Project Developers](#personas-desarrolladores)
+* [Project Developers](#Project_Developers)
 
   
 <p align="left">
