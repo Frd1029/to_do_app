@@ -1,13 +1,3 @@
-<p align="left">
-   <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-green">
-   <img src="https://img.shields.io/badge/License-UFPS-red">
-   <img src="https://img.shields.io/badge/Python-3.12.2-blue">
-   </p>
-
-<h1 align="center"> To Do App FRELUJ </h1>
-
-![Todo-App Example](https://github.com/Frd1029/to_do_app/assets/75369255/5a5849fe-5170-4f8b-83c4-173622ca9b28)
-
 ## Index
 
 * [Project description](#Project_description)
@@ -23,6 +13,17 @@
 * [Technologies used](#Technologies_used)
 
 * [Project Developers](#personas-desarrolladores)
+
+  
+<p align="left">
+   <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-green">
+   <img src="https://img.shields.io/badge/License-UFPS-red">
+   <img src="https://img.shields.io/badge/Python-3.12.2-blue">
+   </p>
+
+<h1 align="center"> To Do App FRELUJ </h1>
+
+![Todo-App Example](https://github.com/Frd1029/to_do_app/assets/75369255/5a5849fe-5170-4f8b-83c4-173622ca9b28)
 
 ## Project_description
 
