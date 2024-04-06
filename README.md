@@ -57,9 +57,15 @@ We use the following command ".\venv\Scripts\activate.bat" to activate and enter
 ![img37](https://github.com/Frd1029/to_do_app/assets/75369255/15d1608d-ae14-4070-9c09-73a05a508363)
 ![img35](https://github.com/Frd1029/to_do_app/assets/75369255/3b7e2dc4-196e-4ecd-a3c9-7281542f2938)
 
+## Project_access
+
+Para descargar el proyecto y poderlo correr en su computadora es necesario que clone el proyecto desde el Git Bash. (Para esto es necesario que haya instalado Django)
+![image](https://github.com/Frd1029/to_do_app/assets/75369255/ed6de130-197b-4a73-ad39-c5c28b3ecfea)
+
+
 ## Application_features_demonstration
 
-## Project access
+At the moment, we do not have documentation of the application in operation as we have not yet started with the deployment stage.
 
 ## Technologies_used
 
