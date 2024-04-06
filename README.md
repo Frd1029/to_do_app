@@ -42,11 +42,19 @@ In progress or Active: The project is underway, and activities are being carried
 
 First, we enter the folder where our remote repository is located
 
-After being located in our repository, we enter Python mode by typing the command "py" to verify that we have Python installed. Exit the Pyhton environment with the command "exit()".
+![img32](https://github.com/Frd1029/to_do_app/assets/75369255/33893a9f-dbbf-461e-8319-a5ff02509920)
 
-Create a new folder with the command "mkdir" and assign it a name, in our case it will be 'project'. Enter the newly created folder with the command "cd" and create an environment with the following command "py -m venv venv".
+After being located in our repository, we enter Python mode by typing the command "py" to verify that we have Python installed. Exit the Pyhton environment with the command "exit()". Create a new folder with the command "mkdir" and assign it a name, in our case it will be 'project'.
+
+![img33](https://github.com/Frd1029/to_do_app/assets/75369255/717c0d2f-fd16-4258-a314-c5c4936078e2)
+
+Enter the newly created folder with the command "cd" and create an environment with the following command "py -m venv venv".
+
+![img37](https://github.com/Frd1029/to_do_app/assets/75369255/2381d277-5b0c-4095-add2-12dcf17374b4)
 
 We use the following command ".\venv\Scripts\activate.bat" to activate and enter the local Python environment. Once inside the local environment we use the following command "pip install django" to install Django in our local Phyton environment.
+![img37](https://github.com/Frd1029/to_do_app/assets/75369255/15d1608d-ae14-4070-9c09-73a05a508363)
+![img35](https://github.com/Frd1029/to_do_app/assets/75369255/3b7e2dc4-196e-4ecd-a3c9-7281542f2938)
 
 ## Application_features_demonstration
 
