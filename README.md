@@ -1,5 +1,7 @@
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-green">
+   <img src="https://img.shields.io/badge/License-UFPS-red">
+   <img src="https://img.shields.io/badge/Python-3.12.2-blue">
    </p>
 
 <h1 align="center"> To Do App FRELUJ </h1>
@@ -52,7 +54,7 @@ We use the following command ".\venv\Scripts\activate.bat" to activate and enter
 
 ## Technologies_used
 
-## Projec_Developers
+## Project_Developers
 
 - 1152047 Fredy Gustavo Peñaranda 
     **Usuario En GitHub:** [Frd1029](https://github.com/Frd1029)
