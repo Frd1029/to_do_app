@@ -6,7 +6,21 @@
 
 ![Todo-App Example](https://github.com/Frd1029/to_do_app/assets/75369255/5a5849fe-5170-4f8b-83c4-173622ca9b28)
 
-# Members:
+## Index
+
+* [Project description](#Project_description)
+
+* [Project status](#Estado-del-proyecto)
+
+* [Application features and demonstration](#Características-de-la-aplicación-y-demostración)
+
+* [Project access](#acceso-proyecto)
+
+* [Technologies used](#tecnologías-utilizadas)
+
+* [Project Developers](#personas-desarrolladores)
+
+## Projec_Developers:
 
 - 1152047 Fredy Gustavo Peñaranda 
     **Usuario En GitHub:** [Frd1029](https://github.com/Frd1029)
@@ -15,7 +29,7 @@
 - 1151920 Jezael Ropero 
     **Usuario En GitHub:** [omegablacks](https://github.com/omegablacks)
 
-# Description
+## Project_description
 
 The application will allow users to register and log in to access their personal task lists. Its name FRELUJ comes from the combination of the names of the project developers.
 Once inside, they will be able to create new tasks by specifying a title, an optional description, a deadline, and possibly a priority.
@@ -25,11 +39,11 @@ To enhance the user experience, the application could be responsive, meaning com
 
 It could also include collaboration features, such as sharing task lists with other users and assigning tasks to different team members in collaborative work environments.
 
-# Project Status
+## Project Status
 
 In progress or Active: The project is underway, and activities are being carried out to achieve the established objectives.
 
-# Steps by Install Django:
+## Steps by Install Django:
 
 First, we enter the folder where our remote repository is located
 
